@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the undertakers for the draining of deeping-fenns, as to a pretended adjudication.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18720</idno><idno type="EEBO-CITATION">99887509</idno>
+  <idno type="VID">190486</idno>
+  <idno type="EEBO-PROQUEST">2248541917</idno>
+  
+            <idno type="STC">Wing C1171A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[26]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R227784</idno>
+            <idno type="PROQUEST">ocm99887509</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887509e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190486)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the undertakers for the draining of deeping-fenns, as to a pretended adjudication.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Reclamation of land --  England --  Early works to 1800.</term>
+               <term type="topical_term">Fens --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:190486:1"/>
+            <head>The Case of the Undertakers for the Draining of <hi>Deeping-Fenns,</hi> as to a Pretended Adjudication.</head>
+            <p>THE First Act of Parliament was made in 1664. at the earnest desire of the Country; which then was in manifest danger of being ut<g ref="char:EOLhyphen"/>terly lost, as apears by the Preamble to the said Act. But by reason of some Discouragements in the said Act, the Work was not proceeded in till the Passing the New Act in 1668. and then the Work was vigorously proceeded on; and in the Year 1671. the said Fenn was laid dry, and depasturable for Cattel at all times of the Year, and Crops of Corn sown and reaped in it.</p>
+            <p>All the Country Banks which were charged on the Undertakers by the said Act, were all substantially repaired, much better than when at the Countries keeping; and several other Advantages and Improvements made to the Country, at the Undertakers Charge.</p>
+            <p>All which notwithstanding, the Commissioners of Sewers proved very unkind, and on the least occasion would award very great Damages the one to the other: Some, when the Undertakers were but in part guilty; others, where they were no way guilty, or concerned at all. And all this, without any Summons, or Hearing of Parties, or any Testimony upon Oath: And in some other Cases, where the Evidence was fairest for the Undertakers.</p>
+            <p>And further, They have ordered all the Works belonging to the said Undertakers to be presented by the Jury every Sessions, and have set such immoderate Fines thereon, as amount to above 11000 <hi>l.</hi>
+            </p>
+            <p>And at last finding the Works in a good Condition, the Dreins new made, the Banks, Bridges, Sluices, and Tunnels all well repaired, and so the future Charge not like to be great; The said Undertakers having then expended near 20000 <hi>l.</hi> in the said Work, they contrived an Adjudication to Out and Eject the Undertakers, and then to take the Possession into their own Hands.</p>
+            <p>For the better effecting whereof, one of the Commissioners writ to a Commissioner at <hi>Spaulding,</hi> as also to the Clerk of the Sewers, to advise the Impannelling a sure Jury, though but of Twelve Men (if sure); as also to engage several select Commissioners to be present: The Jury was to pre<g ref="char:EOLhyphen"/>pare a Verdict against the Meeting of the Commissioners, which was to be the Thirteenth of <hi>September,</hi> 1677.</p>
+            <p>And as a Preparatory to that Day, some of the Commissioners agreed a Meeting at <hi>Crowland</hi> on the Twelfth of <hi>September,</hi> to make a View of the Fenns, in order to an Adjudication against the Undertakers; who accordingly met, and from <hi>Crowland</hi> by Boat passed by <hi>Good-fellows Dyke</hi> to <hi>Black Dyke Roft,</hi> and from thence to <hi>Horse-gate Roft</hi> to <hi>Spaulding,</hi> by which they could not view any part of <hi>Deeping</hi> Fenns, which was at that time full of Cattel, nor one eighth part of the whole Fenns, and that part also the lowest and panniest Ground in all the Fenn, of which notwithstanding a great part was then dry.</p>
+            <p>The Commissioners accordingly held their Sessions on the Thirteenth of <hi>September,</hi> 1677. and the Act of Parliament was given the Jury in Charge, as was before contrived; and after some Debate, it was objected, That several Honourable Persons, both of the House of Peers and House of Commons, were concerned, who ought not to be ejected out of their Estates during a Session of Parliament, without being heard. But that Plea would not be accepted by the Court: And the Court adjourned from the Town-Hall to the <hi>White-Hart</hi> in <hi>Spaulding.</hi>
+            </p>
+            <p>And what Decrees or Adjudications were there made, as all the rest of the Proceedings at that Court, were kept in secret from the Undertakers, who were never Legally summoned, and afterwards coming and demanding Copies from the Clerk of the Sewers, could not procure them, all the Papers being kept from him by the Commissioners, lest they should come to the knowledge of the said Undertakers; intending to surprise them, by returning the same into the Chancery, to be Filed upon Record, before they could make any Defence to prevent the same; which though never so Illegal and Unjust, if once Filed, would have rendred the said Undertakers Remediless either in Law or Equity, otherwise than by Appeal in Parliament.</p>
+            <p>But the said Adjudications having been since returned up, the Undertakers did procure Copies thereof, and by Petition to the Lord Chancellor did prevent the Filing thereof, till the said Petitioners should be heard: The Substance of which Adjudications are as follow.</p>
+            <p>That the Commissioners therein named, by their View, do find, adjudge, and decree. That the said Fenns, and every of them, are hurtfully sur<g ref="char:EOLhyphen"/>rounded with Water; And that the said Fenns or Wastes have, or most part of the same have, lain drowned and overflowed with Water, from the Second day of <hi>March,</hi> 1664. to the day of the date of the said Decree, notwithstanding the Works of the said Trustees, and in their Default. The Jury also gave in their Verdict, That the Fenns called <hi>Deeping-Fenns</hi> in the said Act of Parliament, were never drayned by <hi>William</hi> Earl of <hi>Devon<g ref="char:EOLhyphen"/>shire,</hi> and Trustees for Draining the said Fenns; but that the said Fenns lay then hurtfully surrounded, as the said Fenns have been hurtfully sur<g ref="char:EOLhyphen"/>rounded ever since the Second day of <hi>March,</hi> 1664. notwithstanding the Works of the said Undertakers, and in default of the said Trustees; and that the said Fenns were as dry before the said Undertaking, as they have been at any time since.</p>
+            <p>After the Court making a recital of the Adjudications of the Commissioners that viewed, say, that the Fenns are hurtfully surrounded, and were not dreyned by the Trustees, nor Undertakers within the first Seven years mentioned in the said Act, which is quite different from the Return made by the Viewers themselves, and then it was declared by the Court, that the Trustees mentioned in the said Act, stand seized for such uses, in<g ref="char:EOLhyphen"/>tents, and purposes, as in and by the said Act is limited for the benefit of the Countrey.</p>
+            <div type="part">
+               <head>On all which it is to be observed.</head>
+               <p n="1">I. That the whole business was a Contrivance of some of the Commissioners to out the Undertakers, and put themselves into possession. For that the Undertakers had expended near 8000 <hi>l.</hi> on the Works of Draining the said Fenn, in the precedent Five Years before the intended Adjudica<g ref="char:EOLhyphen"/>tion, as their Register-Books will make appear; whereby 'tis evident, they did not wilfully neglect the same.</p>
+               <p n="2">II. That the Viewers by one Afternoons viewing the eighth part of the Fenn, without any other Testimony, or Proof, could adjudge the Fenn to have continued drowned for above twelve Years before, although not long before, some of the same Commissioners did Award damages against the said Undertakers of 150 <hi>l.</hi> for that there wanted Water in the River.</p>
+               <p n="3">III. The Jury without View, or Inquisition, or any other Evidence, or Proof also presented upon their Oaths, that the said Fenns had continued drowned for above twelve Years, according as the Viewers had adjudged, notwithstanding the contrary was well known to most, if not to all of them</p>
+               <p n="4">IV. And as if the ejecting and outing the said Undertakers had not been sufficient, they have returned Estreats to the value of above 11000 <hi>l.</hi> against the said Undertakers.</p>
+               <p n="5">V. And since all this, they have received Petitions against the said Undertakers, and have Summoned them as Undertakers to appear, and also the Jury have presented the Undertakers from time to time, and set Fines upon them for the defect of several Bridges, <hi>&amp;c.</hi> under their care, notwithstanding that by the said Adjudication they had ejected them before, and since the time of this Adjudication, being eight Years, the Un<g ref="char:EOLhyphen"/>dertakers have continued in quiet possession, and have laid out above 14000 <hi>l.</hi>
+               </p>
+               <p>
+                  <hi>Note,</hi> The Lords of all the Mannors whose Tenants have Common in the Fenn, are all consenting to the Undertakers, who are opposed by none but the Commissioners of Sewers, who take upon them the Name of the Country; and, we are credibly informed, have obtained several Hands to a Writing they design to offer in opposition to the Bill, and for Filing the Adjudication, by falsely persuading them, the Undertakers design to take away all their Commons, and possessing them, they may enjoy the whole Fenn again in Common, if the Undertakers were outed; when in truth the Commissioners by their own Adjudication (if it may stand) are to have and dispose of the Undertakers Lands.</p>
+               <p>
+                  <hi>Note,</hi> It may reasonably be supposed, that if by the Adjudication of the Commissioners of Sewers, the Lands were to have gone to any others than themselves, the Adjudication had never been made upon so slender a view, and without any proof, and so Privately, that the Undertakers were not to have Legal Summons, nor so much as Copies of the Proceedings.</p>
+               <p>From all which the Undertakers do humbly hope, and pray, that your Lordships will put them under a more Indifferent Judicature; in order to which they humbly propose. That out of the Persons appointed to set out the Boundaries of the Fenns; three may be chosen by the Under<g ref="char:EOLhyphen"/>takers, and three by the Country or Commissioners of Sewers, and one (to make the number odd) by the Lord Lieutenant of the County of <hi>Lincoln</hi> for the time being, which Seven, or any five of them may assess Damages as the Case may require. Or if this Proposal doth not seem reasonable, That your Lordships will please to put the Undertakers under such other Judicature as your Lordships shall think fit.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
